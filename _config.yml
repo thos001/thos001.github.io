@@ -113,5 +113,8 @@ friends: [
     },{
         title: "四合一图床",
         href: "https://thos001.github.io/tc.html"
+    },{
+        title: "导航",
+        href: "https://thos001.github.io/weblink"
     }
 ]
